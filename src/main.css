@@ -1,0 +1,15 @@
+html, 
+body { 
+  margin: 0;
+}
+
+
+h1 { 
+  
+  color: rgb(32, 103, 255); 
+  text-transform: uppercase; 
+  font-size: 5rem; 
+  text-align: center; 
+  font-family: Futura, sans-serif; 
+  
+}
